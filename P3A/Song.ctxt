@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Song()
+comment1.params=initialArtist\ initialTitle\ initialCost\ initialIsDownloaded\ initialRunTime\ initialYearReleased
+comment1.target=Song(java.lang.String,\ java.lang.String,\ double,\ boolean,\ int,\ int)
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=java.lang.String\ getTitle()
+comment3.params=
+comment3.target=boolean\ getIsDownloaded()
+comment4.params=newTitle
+comment4.target=void\ setTitle(java.lang.String)
+comment5.params=newCost
+comment5.target=void\ setCost(double)
+comment6.params=
+comment6.target=java.lang.String\ getYearReleased()
+comment7.params=newYear
+comment7.target=void\ setYearReleased(int)
+comment8.params=
+comment8.target=int\ getRunTime()
+comment9.params=
+comment9.target=java.lang.String\ convertToMinSec()
+numComments=11
